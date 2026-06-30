@@ -16,23 +16,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 </div>
-<div align="center">
 
-# 🚀 FlowPay
-
-### Cross-Border Recurring Payment Streaming Platform on Stellar Soroban
-
-*Automating payroll, subscriptions, grants, and recurring payments with secure on-chain smart contracts.*
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Soroban](https://img.shields.io/badge/Stellar-Soroban-08B5E5?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-</div>
 
 ---
 

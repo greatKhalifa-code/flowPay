@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+    "contracts/payment_stream",
+]
+
+[profile.release]
+opt-level = "z"
+overflow-checks = true
+debug = false
+panic = "abort"
